@@ -1,6 +1,4 @@
 # 404 Not Found Page
-Right now it is in progress
-
 
 Solution for a challenge from  [Devchallenges.io](http://devchallenges.io)
 
