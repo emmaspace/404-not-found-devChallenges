@@ -1,51 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="icon" href="https://glitch.com/favicon.ico" />
+    <title>Hello World!</title>
 
-<title>Hello World!</title>
+    <!-- meta tags for SEO and social sharing -->
+    <link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
+    <meta
+      name="description"
+      content="A simple website, built with Glitch. Remix it to get your own."
+    />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Hello World!" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
+    <meta
+      property="og:description"
+      content="A simple website, built with Glitch. Remix it to get your own."
+    />
+    <meta
+      property="og:image"
+      content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"
+    />
+    <meta name="twitter:card" content="summary" />
 
-<!-- meta tags for SEO and social sharing -->
-<link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
-<meta name="description" content="A simple website, built with Glitch. Remix it to get your own." />
-<meta name="robots" content="index,follow" />
-<meta property="og:title" content="Hello World!" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
-<meta property="og:description" content="A simple website, built with Glitch. Remix it to get your own." />
-<meta property="og:image"
-    content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147" />
-<meta name="twitter:card" content="summary" />
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
 
-<!-- import the webpage's stylesheet -->
-<link rel="stylesheet" href="/style.css" />
-
-<!-- import the webpage's javascript file -->
-<script src="/script.js" defer></script>
+    <!-- import Google fonts -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link
+    href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@500;700&family=Space+Mono:wght@400;700&display=swap"
+    rel="stylesheet">
 </head>
 
 <body>
-    <header>
-        <h1>404 not found</h1>
-    </header>
-
-    <main>
-        <div>
-            <img src="/images/Scarecrow.png" alt="Illustration of a scarecrow">
-        </div>
-        <div>
-            <h2>I have bad news for you</h2>
-            <p>The page you are looking for might be removed or is temporarily unavailable</p>
-            <button>Back to homepage</button>
-        </div>
-    </main>
-
-    <footer>
-        <p>created by <a href="https://devchallenges.io/portfolio/emmaspace">emmaspace</a> - devChallenges.io</p>
-    </footer>
+    <div class="flex">
+        <header>
+            <h1>404 not found</h1>
+        </header>
+        
+        <main>
+            <div class="col1">
+                <img src="https://cdn.glitch.com/22b59d65-04e1-45a4-a1c9-23e737c2551c%2FScarecrow.png?v=1620275085432" alt="Illustration of a scarecrow">
+            </div>
+            <div class="col2">
+                <h2>I have bad news for you</h2>
+                <p>The page you are looking for might be removed or is temporarily unavailable</p>
+                <button>Back to homepage</button>
+            </div>
+        </main>
+        
+        <footer>
+            <p>created by <a href="https://devchallenges.io/portfolio/emmaspace">emmaspace</a> - devChallenges.io</p>
+        </footer>
+    </div>
 
 </body>
 
