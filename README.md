@@ -2,9 +2,7 @@
 
 Solution for a challenge from  [Devchallenges.io](http://devchallenges.io)
 
-<!-- Insert link to demo -->
-<!-- Insert link to solution -->
-
+[Demo](https://404notfound-devchallenges.glitch.me/) | [Solution](https://github.com/emmaspace/404-not-found-devChallenges)| [Challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) 
 
 <!-- TABLE OF CONTENTS -->
 
@@ -13,44 +11,36 @@ Solution for a challenge from  [Devchallenges.io](http://devchallenges.io)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW 
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Gif: ![Web page in Responsively gif](#)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This is the first responsive website I make, so it was challenging to figure out how to style it keeping in mind the differences that were needed for different devides. This gave me a better perspective on how to plan and style a web page from zero.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
--->
+I learned how to use media queries and I also practiced how to use flexbox and the grid as well as which tools where more convenient to use to achieve specific goals. I also learned how to make the html and the body of a document use all the space available so I could position other elements as needed.
+
+This was a very good project to practice basics of CSS and to learn how and when to use flexbox and the grid, but the main goal was that I learned how to use media queries correctly.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
--->
+- [HTML](https://html.com/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Media queries](https://devchallenges.io/learn/tutorial/media-queries)
+- [CSS Grid Tutorial](https://www.youtube.com/watch?v=EFafSYg-PkI)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Contact
 
