@@ -306,3 +306,26 @@ footer p a{
       font-size: 0.8em;
     }
 }
+
+@media (min-width: 1500px){
+    .flex main h2 {
+        font-size: 4em;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    main p {
+        font-size: 2em;
+    }
+  
+    button{
+      font-size: 1.5em;
+      width: 70%;
+    }  
+    
+    .flex footer{
+      font-size: 1em;
+    }
+}
