@@ -4,8 +4,6 @@ Solution for a challenge from  [Devchallenges.io](http://devchallenges.io)
 
 [Demo](https://404notfound-devchallenges.glitch.me/) | [Solution](https://github.com/emmaspace/404-not-found-devChallenges)| [Challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) 
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -13,8 +11,6 @@ Solution for a challenge from  [Devchallenges.io](http://devchallenges.io)
 - [Features](#features)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
-
-<!-- OVERVIEW 
 
 ## Overview
 
