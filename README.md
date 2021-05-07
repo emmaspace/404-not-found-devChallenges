@@ -14,7 +14,7 @@ Solution for a challenge from  [Devchallenges.io](http://devchallenges.io)
 
 ## Overview
 
-Gif: ![Web page in Responsively gif](#)
+Gif: ![Web page in Responsively gif](https://cdn.glitch.com/22b59d65-04e1-45a4-a1c9-23e737c2551c%2F404%20page%20not%20found.gif?v=1620349172097)
 
 This is the first responsive website I make, so it was challenging to figure out how to style it keeping in mind the differences that were needed for different devides. This gave me a better perspective on how to plan and style a web page from zero.
 
