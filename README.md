@@ -37,6 +37,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Media queries](https://devchallenges.io/learn/tutorial/media-queries)
 - [CSS Grid Tutorial](https://www.youtube.com/watch?v=EFafSYg-PkI)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ResponsivelyApp](https://responsively.app/) to try the page in different devices.
 
 ## Contact
 
